@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raushan-Coder-001
 - 👀 I’m interested in the technology and its applications I love to create something with the help of coding.
-- ❤️ I love coding in C programming language this language  is the  most used language by me .
+- ❤️ I love coding in C and C++ programming language this languages are the most used language by me .
 - 🌱 I’m currently learning java and cpp side by side and little bit of data structure and algorithm.
 - 💞️ I’m looking to collaborate on the software development .
 - 📫 How to reach me 📧raushankumargalaxy407@gmail.com , phone no:- +917667938687 ,https://www.linkedin.com/in/raushan-kumar-202215233/
